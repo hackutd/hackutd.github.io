@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section class="events-page background-scrim">
+    <section class="events-page">
       <h1 class="page-title">Our Flagship Events</h1>
       <div class="md:flex">
         <a href="https://gamejam.hackutd.co/">
